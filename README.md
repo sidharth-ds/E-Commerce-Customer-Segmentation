@@ -1,1 +1,1 @@
-# e-commerce-Customer-Segmentation
+# e-commerce-Customer-Segmentation (ongoing)
